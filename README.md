@@ -52,7 +52,8 @@ Chương trình lọc được 3 sinh viên có điểm từ 5 trở lên:
 
 ### Hình ảnh kết quả chạy chương trình
 
-![Kết quả chạy chương trình](image.png)
+<img width="392" height="705" alt="image" src="https://github.com/user-attachments/assets/af549f09-01b2-4637-9641-08c648a974d8" />
+
 
 ## 5. Kết luận
 
