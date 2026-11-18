@@ -56,16 +56,20 @@ http://localhost:3001/sum?a=abc&b=20
 ## 6. Hình ảnh minh họa
 
 ### Ảnh chạy chương trình
-![Run](images/run.png)
+<img width="353" height="45" alt="image" src="https://github.com/user-attachments/assets/b3cf949b-6ee2-4c32-8afb-66498dda6509" />
+
 
 ### Kết quả Hello
-![Hello](images/hello.png)
+<img width="447" height="121" alt="image" src="https://github.com/user-attachments/assets/eef800fd-6628-45ac-827a-712964a0ee02" />
+
 
 ### Kết quả Sum
-![Sum](images/sum.png)
+<img width="453" height="148" alt="image" src="https://github.com/user-attachments/assets/bcab0424-894b-4681-87e2-5d9679aaa5f6" />
+
 
 ### Kết quả kiểm tra lỗi
-![Error](images/error.png)
+<img width="295" height="133" alt="image" src="https://github.com/user-attachments/assets/b40a980f-6adc-42ff-9868-b471d2c82b59" />
+
 
 ## 7. Kết luận
 Chương trình chạy thành công, xử lý được tham số URL,
