@@ -31,4 +31,11 @@ Chương trình chạy thành công, thực hiện đầy đủ các thao tác t
   - ghichu_moi.txt
 
 ## 6. Hình ảnh minh chứng
-Ảnh code và ảnh chạy chương trình được bổ sung trong phần nộp bài.
+### Ảnh 1: Cấu trúc thư mục
+![Cấu trúc thư mục](data/thumuc_bai08.png)
+
+### Ảnh 2: Kết quả chạy chương trình
+![Kết quả chạy](data/ketqua_bai08.png)
+
+### Ảnh 3: Code chương trình
+![Code bài 08](data/code_bai08.png)
